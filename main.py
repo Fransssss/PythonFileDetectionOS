@@ -1,3 +1,4 @@
+# Author : Fransiskus Agapa
 import os     # deal with file
 
 path = r"C:\Users\XaveF\Documents"
